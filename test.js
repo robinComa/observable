@@ -1,7 +1,7 @@
 // Initialize an observable scope
 var scope = new ObservableScope();
 
-//Create variable into the observable scope
+// Create a variable into the observable scope
 scope.obj = 1;
 
 // Active the watcher and return a watcher killing function
